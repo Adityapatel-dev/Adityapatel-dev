@@ -40,10 +40,7 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/adityapatel98)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat)](https://adityapatel-portolio.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/adityapatel98)    
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Adityapatel-dev)
 
 ---
-
-> *“Turn curiosity into code.”* ✨
