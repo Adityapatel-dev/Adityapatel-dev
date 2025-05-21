@@ -21,21 +21,9 @@
 
 ---
 
-## 🧪 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔍 **BookBreeze** | Online book review app with filters | React, LocalStorage |
-| 💪 **FitTrackr** | Track your fitness goals with charts | React, Chart.js |
-| ☁️ **WeatherWizard** | UI automation for a weather app | Selenium, Java |
-| 🗳️ **E-Vote App** | Automation test for voting app | Cucumber, Java |
-
----
-
 ## 📈 GitHub Stats
 
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityapatel-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapatel-dev&layout=compact&theme=tokyonight)
 
 ---
 
