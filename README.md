@@ -1,34 +1,13 @@
-# 👋 Hey, I’m Aditya Patel
+# Temperature Converter (React)
 
-🎯 Frontend Developer | Software Tester | UI/UX Enthusiast  
-🏀 Ex-Sports Analyst turned Techie | Building clean UIs & reliable apps  
-📍 Based in Pune | Open to full-time/intern opportunities
+A frontend React temperature converter that converts between **Celsius**, **Fahrenheit**, and **Kelvin**.
 
----
+## Features
+- Built with React state/hooks
+- Convert between Celsius, Fahrenheit, and Kelvin
+- Swap source and target units
+- Validation for impossible Kelvin values
+- Responsive UI
 
-## 💼 About Me
-- 💻 Passionate about crafting responsive UIs & testing user workflows  
-- 🚀 Currently learning Frontend & Advanced Selenium  
-- 🌱 I love collaborating, learning new tech, and building cool things
-
----
-
-## 🔧 Tech Stack
-- **Languages:** JavaScript, Java, HTML5, CSS3  
-- **Frontend:** React.js, Bootstrap, TailwindCSS  
-- **Testing:** Selenium WebDriver, TestNG, Manual Testing  
-- **Tools:** Git, GitHub, Figma, VS Code
-
----
-
-## 📈 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityapatel-dev&show_icons=true&theme=tokyonight)
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/adityapatel98)    
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Adityapatel-dev)
-
----
+## Run locally
+Open `index.html` with any static web server (for example, VS Code Live Server), then open the served URL in your browser.
