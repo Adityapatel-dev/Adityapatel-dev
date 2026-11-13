@@ -137,13 +137,21 @@ English · Hindi · Marathi
 
 ## GitHub Activity
 
-### Contribution Graph
+You can view my live contribution calendar and recent repositories directly on GitHub:
 
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityapatel-dev&theme=tokyo-night&hide_border=true)](https://github.com/Adityapatel-dev)
+[![View GitHub Contributions](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityapatel-dev?tab=overview#contribution-activity)
 
-### Top Languages
+## Languages & Tools
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapatel-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Adityapatel-dev)
+These are the main programming languages and tools I use in my projects:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+> Note: These are skill badges, not automatically calculated GitHub language rankings.
 
 ---
 
