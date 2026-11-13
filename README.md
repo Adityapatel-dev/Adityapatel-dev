@@ -137,7 +137,13 @@ English · Hindi · Marathi
 
 ## GitHub Activity
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityapatel-dev&show_icons=true&theme=tokyonight)
+### Contribution Graph
+
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityapatel-dev&theme=tokyo-night&hide_border=true)](https://github.com/Adityapatel-dev)
+
+### Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapatel-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Adityapatel-dev)
 
 ---
 
